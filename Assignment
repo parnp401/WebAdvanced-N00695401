@@ -1,0 +1,11 @@
+
+My repository: https://github.com/parnp401/WebAdvanced_Fall2019_parnp401
+My goal is to build a page for a dog shelter. 
+
+My JS libraries:
+
+First, I was not 100% sure what the definition of a Java Script library actually means, so I decided to also include W3. W3 is a place where I am not only able to discover different examples for the use of Java Script, I am also able to see how it has been created. They explain the code and you can also try it in a build-in editor. 
+
+W3 Schools: https://www.w3schools.com/js/
+
+Then, I learned about the actual meaning of a Java Script libary and found D3, a library specialized on the use of data. https://d3js.org As I am planning to code a side for a dog shelter, the library could help me to manage the content and data, using HTML, SVG, and CSS. D3 is specialized on Document Object Model (DOM) and can apply data-driven transformation to a document in order to create a more interactive experience. 
